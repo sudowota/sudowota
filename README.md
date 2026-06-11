@@ -1,4 +1,4 @@
-# Hey, I'm Moses 
+# I'm Moses 
 
 **Product Engineer · Music & Creative Tech · Berlin**
 
