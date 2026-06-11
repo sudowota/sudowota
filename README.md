@@ -46,6 +46,11 @@ Tools        Logic Pro X · MuseScore · Power BI
 
 ---
 
+## How I work
+→ [SUDO DEV WORKFLOW](./SUDO_DEV_WORKFLOW.md) — my personal Agile-based development process
+
+---
+
 ## Background
 
 - 🎓 B.Sc. Media Informatics · Berliner Hochschule für Technik *(finishing)*
