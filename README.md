@@ -12,7 +12,7 @@ now turning that domain knowledge into real engineering.
 
 ## What I'm building
 
-### 🎵 Choir Repertoire Management System
+### Choir Repertoire Management System
 Fullstack web platform for choir management.
 CRUD architecture · musical metadata classification · progression search · role-based access · Docker deployment
 
@@ -20,7 +20,7 @@ CRUD architecture · musical metadata classification · progression search · ro
 
 ---
 
-### 🎸 Style Handbook – Song Analysis Tool
+### Style Handbook – Song Analysis Tool
 A tool for music producers that breaks down songs into their musical components –
 chord progressions, structure, arrangement and style.
 
@@ -28,7 +28,7 @@ chord progressions, structure, arrangement and style.
 
 ---
 
-### 🎮 Mortel Kombat
+### Mörtel Kombat
 Jump-and-run combat game with dynamic moving camera system.
 
 `Game Development`
